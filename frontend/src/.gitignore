@@ -1,0 +1,4 @@
+frontend/node_modules
+project-management-system/backend/node_modules
+.env
+dist
